@@ -1,6 +1,3 @@
-# Deep Learning Research Paper Filtering and Classification System
-
-This project provides a semantic NLP-based filtering and classification system for academic papers on deep learning applications in virology and epidemiology. Given an initial keyword-based dataset, the system identifies relevant papers, categorizes them by method type, and extracts specific deep learning methods, saving the results in CSV and Excel formats.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
