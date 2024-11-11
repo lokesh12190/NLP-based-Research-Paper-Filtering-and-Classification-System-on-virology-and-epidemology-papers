@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This solution addresses the task of filtering and classifying academic papers that discuss deep learning applications in virology and epidemiology. By leveraging semantic NLP techniques, it goes beyond simple keyword matching, allowing for more accurate and efficient identification of relevant papers. This is particularly useful for researchers needing to quickly locate pertinent studies from large datasets.
+This solution addresses the task of filtering and classifying academic papers that discuss deep learning applications in virology and epidemiology. By leveraging semantic NLP techniques, it goes beyond simple keyword matching, allowing for more accurate and efficient identification of relevant papers. 
 
 ## Solution Components
 
@@ -23,8 +23,8 @@ This solution addresses the task of filtering and classifying academic papers th
    - A TF-IDF similarity comparison helps to generalize beyond exact keyword matches by comparing paper content with representative text descriptions of each method type.
 
 3. **Specific Method Extraction**
-   - After classification, the system identifies and reports the specific deep learning methods discussed in each paper, such as "CNN," "transformer models," or "LSTM."
-   - This level of detail provides a nuanced understanding of the methods each paper employs, aiding researchers in pinpointing studies that use particular techniques.
+   - After classification, the system identifies and reports the specific deep learning methods discussed in each paper, such as "CNN," "transformer models," , "LSTM"----- etc
+   - This level of detail provides a  understanding of the methods each paper employs, aiding researchers in pinpointing studies that use particular techniques.
 
 ## NLP Techniques for Filtering
 
