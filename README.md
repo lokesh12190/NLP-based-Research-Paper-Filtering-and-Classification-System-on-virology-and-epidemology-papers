@@ -54,8 +54,8 @@ This approach is more effective than traditional keyword-based filtering because
 
 ### Running the Code
 
-1. Ensure that the dataset is located at the path specified in `input_file`.
-2. Run the script to process, filter, classify, and save the output.
+1. Ensure that the dataset is located at the path specified in `input_file` here the the input file named as "collection_with_abstracts".
+2. Run the main.py script to process, filter, classify, and save the output.
 3. Upon completion, the filtered and classified papers are saved in CSV and Excel formats.
 
 ### Output Format
@@ -65,7 +65,7 @@ The output files include the following columns:
 - **Abstract**: Paper abstract
 - **Method Type**: Classification as *text mining*, *computer vision*, *both*, or *other*
 - **Specific Method**: Specific deep learning methods discussed in the paper (e.g., "CNN," "transformer model").
-
+   here the the output file named as "filtered_classified_papers_with_methods_final_code 3"
 ## Dataset Statistics
 
 - **Total Papers Processed**: 11,450
