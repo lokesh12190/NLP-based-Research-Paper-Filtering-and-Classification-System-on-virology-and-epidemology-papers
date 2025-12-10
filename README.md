@@ -42,7 +42,7 @@ This approach is more effective than traditional keyword-based filtering because
 
 - **Semantic Generalization**: Using TF-IDF similarity measures allows for a broader and more contextual understanding of paper content, capturing papers that discuss relevant topics even if they use different terminology.
 - **High Precision in Targeting**: By focusing on domain-specific terminology and semantic similarity, the system reduces the risk of false positives, ensuring the selected papers are highly relevant.
-- **Efficient Processing**: The combination of TF-IDF with rule-based heuristics provides an efficient filtering solution that performs well on large datasets.
+- **Efficient Processing**: The combination of TF-IDF with rule-based heuristics provides an efficient filtering solution that performs very well on large datasets.
 
 ## Usage Instructions
 
